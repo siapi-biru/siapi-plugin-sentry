@@ -1,0 +1,17 @@
+{
+  "name": "siapi-plugin-sentry",
+  "version": "3.6.5",
+  "description": "Send Siapi error events to Sentry",
+  "siapi": {
+    "name": "Sentry",
+    "icon": "plug",
+    "description": "sentry.plugin.description"
+  },
+  "dependencies": {
+    "@sentry/node": "6.7.1"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  }
+}

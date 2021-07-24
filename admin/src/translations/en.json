@@ -1,0 +1,4 @@
+{
+  "plugin.description.short": "Send Siapi error events to Sentry.",
+  "plugin.description.long": "Send Siapi error events to Sentry."
+}
